@@ -1,5 +1,6 @@
 package org.example.proby;
 
+// klasa z tym no
 public class PageObject {
 
     public PageObject() {}

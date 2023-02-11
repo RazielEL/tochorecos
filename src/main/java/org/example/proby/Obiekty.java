@@ -2,6 +2,8 @@ package org.example.proby;
 
 public class Obiekty{
 
+    // klasa z obiektami
+
     public class Obj  {
         private static String desc = "Janusz Maj";
         private static Integer dl = 5;
