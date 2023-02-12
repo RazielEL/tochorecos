@@ -7,14 +7,6 @@ package org.example.proby;
     private Integer dl;
     private Integer wys;
 
-    public BaseAnimal(String desc, Integer dl, Integer wys){
-        super();
-        this.desc = desc;
-        this.dl = dl;
-        this.wys = wys;
-    }
-
-
     // getters
     public String getDesc(){return desc;}
     public Integer getDl(){return dl;}
